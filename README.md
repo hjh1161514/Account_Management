@@ -24,25 +24,25 @@ UI(전체 화면 구성, 메뉴/버튼이 각 상황에 맞추어 활성/비활�
 <br>
 
 ## 실행화면
-사이트 입력
+- 사이트 입력
 <br>
 <img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/61824695/94559034-9c46bc80-029b-11eb-80f2-39a71d47f322.PNG"
 width="400px" />
 <br>
 
-계정정보 보기
+- 계정정보 보기
 <br>
 <img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/61824695/94558931-7c16fd80-029b-11eb-82b8-355870030f0a.PNG"
 width="400px" />
 <br>
 
-검색 기능
+- 검색 기능
 <br>
 <img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/61824695/94559068-a8327e80-029b-11eb-80d0-2310d6a2397b.PNG"
 width="400px" />
 <br>
 
-등록현황
+- 등록현황
 <br>
 <img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/61824695/94559099-b1bbe680-029b-11eb-9f48-969e9dcf46e7.PNG"
 width="400px" />
